@@ -1,0 +1,2 @@
+# FRAUDX-Intelligent-Credit-Card-Fraud-Detection-Using-AI-LLM
+A graduation project focused on optimizing financial fraud detection through AI techniques. Combines deep learning (AutoEncoders, LSTMs, DNNs), CTGANs for synthetic data generation, and Large Language Models (LLMs) like Gemini with FAISS for semantic transaction classification in real-time. Front-end built with Streamlit for live predictions.
