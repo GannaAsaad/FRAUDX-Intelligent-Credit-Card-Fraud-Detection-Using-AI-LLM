@@ -25,7 +25,7 @@ FRAUDX is a full-stack AI system developed to tackle the growing threat of credi
 ## 🧠 Key Technologies  
 | Category              | Tools & Methods |
 |-----------------------|-----------------|
-| Data Generation       | CTGANs (Conditional Tabular GANs) |
+| Data Generation for handling imbalance | CTGANs (Conditional Tabular GANs) |
 | Machine Learning      | Logistic Regression, XGBoost |
 | Deep Learning         | AutoEncoder, LSTM, DNN |
 | LLM Integration       | Gemini 1.5 Flash (7B) via LangChain |
